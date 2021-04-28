@@ -33,7 +33,7 @@ def convert_temp():
         fahrenheit = round(fahrenheit, 2)
         print(f"Degrees {fahrenheit} Fahrenheit")
     else:
-        print("Tou must enter a valid menu number")
+        print("You must enter a valid menu number")
 
 
 def main():
